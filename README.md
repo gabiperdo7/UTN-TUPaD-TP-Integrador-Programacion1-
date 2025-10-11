@@ -40,10 +40,10 @@ El programa ofrece un menú en consola con las siguientes opciones:
 
 *Estructura del proyecto
 Proyecto_Paises/
-├── paises.csv
-├── main.py
-├── README.md
-└── Informe_TPI_Programacion1.docx
+1paises.csv
+2tp_integrador.py
+3README.md
+4Informe_TPI_Programacion1.docx
 
 *Formato del archivo CSV
 El archivo paises.csv contiene los datos base:
