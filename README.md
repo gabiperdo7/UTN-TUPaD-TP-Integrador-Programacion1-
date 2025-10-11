@@ -47,13 +47,13 @@ Proyecto_Paises/
 
 *Formato del archivo CSV
 El archivo paises.csv contiene los datos base:
-nombre,poblacion,superficie,continente
-Argentina,45376763,2780400,América
-Japón,125800000,377975,Asia
-Brasil,213993437,8515767,América
-Alemania,83149300,357022,Europa
-Egipto,109262178,1002450,África
-Australia,25925600,7692024,Oceanía
+-nombre,poblacion,superficie,continente
+-Argentina,45376763,2780400,América
+-Japón,125800000,377975,Asia
+-Brasil,213993437,8515767,América
+-Alemania,83149300,357022,Europa
+-Egipto,109262178,1002450,África
+-Australia,25925600,7692024,Oceanía
 
 *Ejemplo de ejecución:
 ===== MENÚ PRINCIPAL =====
@@ -65,10 +65,10 @@ Australia,25925600,7692024,Oceanía
 Seleccione una opción: 4
 
 ===== ESTADÍSTICAS =====
-País con mayor población: Brasil (213993437)
-País con menor población: Australia (25925600)
-Promedio de población: 100122046.33
-Promedio de superficie: 3512090.33
+-País con mayor población: Brasil (213993437)
+-País con menor población: Australia (25925600)
+-Promedio de población: 100122046.33
+-Promedio de superficie: 3512090.33
 
 Cantidad de países por continente:
  - América: 2
