@@ -5,8 +5,8 @@ Materia: Programación 1
 Carrera: Tecnicatura Universitaria en Programación a Distancia
 Institución: Universidad Tecnológica Nacional
 
-*Descripción del proyecto
-Este proyecto corresponde al Trabajo Práctico Integrador de la materia Programación 1.  
+*Descripción del trabajo
+Este trabajo corresponde al Trabajo Práctico Integrador de la materia Programación 1.  
 El objetivo es desarrollar una aplicación en Python que permita gestionar información sobre países, utilizando listas, diccionarios, funciones, condicionales, estructuras repetitivas, ordenamientos y estadísticas.
 
 El sistema carga los datos desde un archivo CSV y permite realizar búsquedas, filtros, ordenamientos y cálculos estadísticos sobre la información.
