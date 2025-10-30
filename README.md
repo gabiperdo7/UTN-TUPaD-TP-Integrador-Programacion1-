@@ -1,9 +1,9 @@
 Gestión de Datos de Países en Python
 
-Alumno: Gabriel Maximiliano Perdomo
-Materia: Programación 1
-Carrera: Tecnicatura Universitaria en Programación a Distancia
-Institución: Universidad Tecnológica Nacional
+-Alumno: Gabriel Maximiliano Perdomo
+-Materia: Programación 1
+-Carrera: Tecnicatura Universitaria en Programación a Distancia
+-Institución: Universidad Tecnológica Nacional
 
 *Descripción del trabajo
 Este trabajo corresponde al Trabajo Práctico Integrador de la materia Programación 1.  
