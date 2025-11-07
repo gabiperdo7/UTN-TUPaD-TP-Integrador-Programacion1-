@@ -51,7 +51,7 @@ Proyecto_Paises/
 1.paises.csv
 2.tp_integrador.py
 3.README.md
-4.TrabajoPrácticoIntegrador-Programacion1.pdf
+4.TPI_Programación1.docx
 
 *Formato del archivo CSV
 El archivo paises.csv contiene los datos base:
