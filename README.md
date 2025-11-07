@@ -27,6 +27,13 @@ El programa ofrece un menú en consola con las siguientes opciones:
    - Promedio de población  
    - Promedio de superficie  
    - Cantidad de países por continente
+5. Agregar nuevo país:
+   Permite inegresar manualmente las datos de un país nuevo (nombre, población, superficie y continente).
+   Elsistema verifica que el país no exista previamente y, si es nuevo, lo agrega a la lista principal y actualiza automáticamente el archivo CSV.
+6. Actualizar datos de un país:
+   Permite modificar los valores de población y superficie de un país existente.
+   Una vez actualizado, los cambios se guardan directamente en el archivo CSV.
+7. Salir del programa.
 
 *Conceptos aplicados
 - Listas: para almacenar la colección de países.  
@@ -37,13 +44,14 @@ El programa ofrece un menú en consola con las siguientes opciones:
 - Ordenamientos: uso de sorted() con claves personalizadas.  
 - Estadísticas: uso de max(), min(), sum(), len() para generar indicadores.  
 - Archivos CSV: lectura y conversión a diccionarios mediante csv.DictReader.
+- Gestión dinámica de datos: el sistema mantiene la base de datos actualizada automáticamente.
 
 *Estructura del proyecto
 Proyecto_Paises/
-1paises.csv
-2tp_integrador.py
-3README.md
-4Informe_TPI_Programacion1.docx
+1.paises.csv
+2.tp_integrador.py
+3.README.md
+4.TrabajoPrácticoIntegrador-Programacion1.pdf
 
 *Formato del archivo CSV
 El archivo paises.csv contiene los datos base:
@@ -61,6 +69,8 @@ El archivo paises.csv contiene los datos base:
 2. Filtrar países
 3. Ordenar países
 4. Mostrar estadísticas
+5. Agregar nuevo país
+6. Actualizar datos de un país
 0. Salir
 Seleccione una opción: 4
 
